@@ -28,8 +28,6 @@ break;
 case 3:
 display();
 break;
-case 4:
-exit(1);
 default:printf("Wrong choice \n");
 } 
 } 
