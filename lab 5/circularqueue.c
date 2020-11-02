@@ -11,7 +11,7 @@ int n, ch;
 int queue[size];
 do
 {
-printf("\n1:Insert \n2.Delete\n3.Display");
+printf("\n1:Insert \n2:Delete\n3:Display");
 printf("\nEnter your Choice : ");        
 scanf("%d", &ch);        
 switch (ch)	        
